@@ -1,0 +1,3 @@
+TylerHouse, 1, House, 342 Steel, 1, 120000, 60000, 28 March 2022, No, Tim, 011, tim@, 65 Waver, Pat, 012, pat@, 87 Rocky, Sara, 013, sara@, 34 Wacky
+SamApartment, 2, Apartment, 10 Godfrey, 2, 200000, 180000, 26 March 2022, No, Peter, 011, peter@, 65 Water, Ted, 012, ted@, 87 Air, Samantha, 013, saman@, 34 Fire
+PeterMall, 3, Mall, 34 River, 3, 300000, 13000, 6 April 2022, Yes, Sam, 0125, sam@, 345 TV, Brandt, 012456987, brandt@, 37 Ulo, Tim, 013, tim@, 897 Hock
