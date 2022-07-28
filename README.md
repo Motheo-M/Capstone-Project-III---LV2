@@ -7,10 +7,11 @@ This is my sixth project that demonstates my skills as a software engineer.
 
 ### What is the project
 This project contains the software that is capable of capturing all the details for any building project that has or will take place.
-This repository also contains a UML diagram of the details of the classes that will be used to create this program.
+This project is also refactored to improve the quality and readability of the code.
 
 ### How does it work
-This program allows the user to capture all the necessary details of a building project.
+This program starts by reading our project text file and returns a list of all our project objects.
+This program allows the user to capture all the necessary details of a building project into a text file.
 1. This will contain the following:
     * The details of the building being built.
     * The details of the architect.
